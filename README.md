@@ -1,0 +1,1 @@
+VeriGood Takımı olarak Yapay Zeka ve Doğal Dil İşleme alanılarında çalışıyoruz. Hedefimiz, Türkçe yapay zeka modellerini ve Türkçe dil kaynaklarını geliştirmek ve Teknofest gibi yarışmalarda başarılı olmak.
